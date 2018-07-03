@@ -12,6 +12,7 @@
             <asp:Literal ID="LiteralInfo" runat="server"></asp:Literal>
             <br />
             <asp:ListBox ID="ListBoxContacts" runat="server" Height="400px" Width="250px" AutoPostBack="True" OnSelectedIndexChanged="ListBoxContacts_SelectedIndexChanged"></asp:ListBox>
+            <h1>Anarchy</h1>
             <table>
                 <tr>
                     <td>Firstname</td>
